@@ -128,7 +128,7 @@ https://github.com/apu52/ProEdu/assets/114172928/5751e51d-797b-4308-9957-abdb9a4
  
 <table>
 <tr>
-<td align="center"><a href="https://github.com/apu52"><img src="images/apu.jpeg" width=150px height=150px /></a></br> <h4 style="color:red;">Arpan Chowdhury</h4>
+<td align="center"><a href="https://github.com/apu52"><img src="Apu.jpeg" width=150px height=150px /></a></br> <h4 style="color:red;">Arpan Chowdhury</h4>
  <a href="https://www.linkedin.com/in/arpan-chowdhury-775294251/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
    </td>
 
